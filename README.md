@@ -1,4 +1,5 @@
-https://next-promptopia-aaru15rmm-afvs161.vercel.app/
+https://next-promptopia-bay.vercel.app/
+<br/>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
